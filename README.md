@@ -37,7 +37,7 @@ So I can just run `cargo generate aoc` to interactively create the new crate for
 ## 🥛 Results 🍪
 | Day | Part 1 Time | Part 1 Rank | Part 1 Runtime[^1] | Part 2 Time | Part 2 Rank | Part 2 Runtime[^1] |
 |:-:|-:|-:|-:|-:|-:|-:|
-|  1 | 02:33:34 |  21725 |  86.9µs | 02:43:17 |  21176 |  111.3µs |
+|  1 | 02:33:34 |  21725 |  12.2µs | 02:43:17 |  21176 |  16.3µs |
 <!--|  1 | 00:13:19 |  5740 |  19.5µs | 00:21:33 |  5187 |  20.7µs | -->
 
 ## 🎅 Have a Wonderful Holiday Season, Everyone! 🎅 
