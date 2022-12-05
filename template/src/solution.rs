@@ -26,6 +26,6 @@ mod tests {
 
   #[test]
   fn test_part2() {
-    assert_eq!(42, part1(&get_input()));
+    assert_eq!(42, part2(&get_input()));
   }
 }
